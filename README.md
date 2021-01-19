@@ -6,7 +6,7 @@
 
 <h3>🛠 Used Tool</h3>
 
-- Everyting | Sublime Text | MobaXterm | BCompare | TortoiseGit | scrcpy | DBeaver 
+- Everyting | Sublime Text | MobaXterm | BCompare | TortoiseGit | scrcpy | DBeaver | postman
 - Android Studio | Visual Studio | Visual Studio Code | IntelliJ
 
 <!--
