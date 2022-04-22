@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- I'm android | deep learning | window developer
+- I'm backend developer
 
 <h3>🛠 Used Tool</h3>
 
-- Everyting | Sublime Text | MobaXterm | BCompare | TortoiseGit | scrcpy | DBeaver | postman
-- Android Studio | Visual Studio | Visual Studio Code | IntelliJ
+- Everyting | Sublime Text | MobaXterm | BCompare | TortoiseGit | DBeaver | postman
+- Visual Studio Code | IntelliJ
 
 <!--
 - 💻 &nbsp; Python | Dart | Java | C++  
